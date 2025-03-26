@@ -41,9 +41,3 @@ The **Task Manager App** is a **Flutter-based CRUD application** that utilizes *
 - Install **Flutter SDK**: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
 - Install **Android Studio / VS Code**
 - Sign up for **Back4App**: [Back4App Sign Up](https://www.back4app.com/)
-
-### Clone the repository:
-```bash
-git clone https://github.com/yourusername/task-manager-app.git
-cd task-manager-app
-flutter pub get
